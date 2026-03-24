@@ -19,7 +19,6 @@ int main()
         printf("Addition not possible");
         return 0;
     }
-
     printf("enter elements in the first matrix\n");
     for(int i = 0; i < row1; i++)
     {
